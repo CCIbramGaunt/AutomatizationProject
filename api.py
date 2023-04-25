@@ -122,7 +122,7 @@ class PetActions:
 
 API =  PetActions.get_api_key(valid_email, valid_password)[0]
 
-Bob = PetActions.post_new_pet('Bob', 'cat', 12, 'C:/Users/Supervisor/Desktop/Study/python/19.2.4/AutomatizationProject/tests/images/chibis.jpg')
+Bob = PetActions.post_new_pet('Bob', 'cat', 12, 'C:/Users/Supervisor/Desktop/Study/python/AutomatizationProject/tests/images/chibis.jpg')
 print(Bob)
 
 
@@ -131,7 +131,7 @@ print(Stan)
 
 print(PetActions.update_pet(f'{Bob[0]}', 'Bobby', 'cat', 12))
 
-print(PetActions.add_pet_photo(Stan[0], 'C:/Users/Supervisor/Desktop/Study/python/19.2.4/AutomatizationProject/tests/images/GoogleImages.jpg'))
+print(PetActions.add_pet_photo(Stan[0], 'C:/Users/Supervisor/Desktop/Study/python/AutomatizationProject/tests/images/GoogleImages.jpg'))
 
 print(PetActions.delete_pet(f'{Bob[0]}'))
 

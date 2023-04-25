@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e83057f5-f4b1-449b-8ad7-2dfba9ec421c" name="Changes" comment="Adding WIP for 19.4.1, question about API" />
+    <list default="true" id="e83057f5-f4b1-449b-8ad7-2dfba9ec421c" name="Changes" comment="Adding WIP for 19.4.1, question about API">
+      <change beforePath="$PROJECT_DIR$/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/api.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
