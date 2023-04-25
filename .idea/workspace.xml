@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e83057f5-f4b1-449b-8ad7-2dfba9ec421c" name="Changes" comment="Adding WIP for 19.4.1, question about API">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_pet_friends.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_pet_friends.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2OrXyk5gtEQnlt65ZvACh5Doekp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Supervisor/Desktop/Study/python/19.2.4/AutomatizationProject&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Supervisor\Desktop\Study\python\19.2.4\AutomatizationProject\tests" />
+      <recent name="C:\Users\Supervisor\Desktop\Study\python\19.2.4\AutomatizationProject\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Supervisor\Desktop\Study\python\19.2.4\AutomatizationProject\app" />
+      <recent name="C:\Users\Supervisor\Desktop\Study\python\19.2.4\AutomatizationProject" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e83057f5-f4b1-449b-8ad7-2dfba9ec421c" name="Changes" comment="" />
+      <created>1682319930524</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682319930524</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Adding WIP for 19.4.1">
+      <created>1682322914305</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682322914305</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding WIP for 19.4.1">
+      <created>1682322949223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682322949223</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adding WIP for 19.4.1">
+      <created>1682324185022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682324185022</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding WIP for 19.4.1, question about API">
+      <created>1682342971368</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682342971368</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding WIP for 19.4.1" />
+    <MESSAGE value="Adding WIP for 19.4.1, question about API" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding WIP for 19.4.1, question about API" />
+  </component>
+</project>
