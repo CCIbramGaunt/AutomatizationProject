@@ -122,21 +122,20 @@ class PetActions:
 
 API =  PetActions.get_api_key(valid_email, valid_password)[0]
 
-Bob = PetActions.post_new_pet('Bob', 'cat', 12, 'C:/Users/Supervisor/Desktop/Study/python/AutomatizationProject/tests/images/chibis.jpg')
-print(Bob)
+#Bob = PetActions.post_new_pet('Bob', 'cat', 12, 'tests/images/chibis.jpg')
+#print(Bob)
 
+#Stan = PetActions.create_pet_simple('Stan', 'fish', 2)
+#print(Stan)
 
-Stan = PetActions.create_pet_simple('Stan', 'fish', 2)
-print(Stan)
+#print(PetActions.update_pet(f'{Bob[0]}', 'Bobby', 'cat', 12))
 
-print(PetActions.update_pet(f'{Bob[0]}', 'Bobby', 'cat', 12))
+#print(PetActions.add_pet_photo(Stan[0], 'tests/images/GoogleImages.jpg'))
 
-print(PetActions.add_pet_photo(Stan[0], 'C:/Users/Supervisor/Desktop/Study/python/AutomatizationProject/tests/images/GoogleImages.jpg'))
+#print(PetActions.delete_pet(f'{Bob[0]}'))
 
-print(PetActions.delete_pet(f'{Bob[0]}'))
+#print(PetActions.get_my_pets_list('my_pets'))
 
-print(PetActions.get_my_pets_list('my_pets'))
-
-print(PetActions.get_all_pets_list())
+#print(PetActions.get_all_pets_list())
 
 

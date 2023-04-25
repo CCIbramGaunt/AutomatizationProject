@@ -6,7 +6,7 @@ from settings import valid_email, valid_password
 testname = 'Jimmy'
 testtype = 'dog'
 testage = 1
-photo_URL = 'C:/Users/Supervisor/Desktop/Study/python/19.2.4/AutomatizationProject/tests/images/chibis.jpg'
+photo_URL = '../tests/images/chibis.jpg'
 
 class TestActions:
     def setup(self):
@@ -77,8 +77,7 @@ class TestActions:
 
     def test_adding_pet_photo(self):
         """Попытка добавить фото к анкете существующего питомца с корректными данными"""
-        assert self.act.add_pet_photo(pet_id_no_photo, \
-    'C:/Users/Supervisor/Desktop/Study/python/19.2.4/AutomatizationProject/tests/images/GoogleImages.jpg')[1] == 200
+        assert self.act.add_pet_photo(pet_id_no_photo, photo_URL)[1] == 200
 
     def test_adding_pet_photo_incorrect(self):
         """Попытка добавить фото к анкете существующего питомца с числом вместо ссылки на фото"""
